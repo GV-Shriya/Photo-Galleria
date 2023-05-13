@@ -4,6 +4,8 @@ Photo Galleria is a Web App built using React Framework (version 16.10) for fron
 
 The user can upload their artworks and showcase them
 
+Anyone can upload their artworks which would be visible to everyone to help build an art community 
+
 # Navigation:
 
 => To upload a file, user can click on the floating action button and choose a file and after a brief animation, it gets uploaded
