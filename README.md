@@ -6,6 +6,10 @@ The user can upload their artworks and showcase them
 
 Anyone can upload their artworks which would be visible to everyone to help build an art community 
 
+![Photo Galleria -1](https://github.com/GV-Shriya/Photo-Galleria/assets/99253243/497f1425-7a55-4d9a-a60c-c1d60da0c129)
+
+![Photo Galleria - 2](https://github.com/GV-Shriya/Photo-Galleria/assets/99253243/31dc7423-1159-4fad-927d-2d8d55637ff3)
+
 # Navigation:
 
 => To upload a file, user can click on the floating action button and choose a file and after a brief animation, it gets uploaded
