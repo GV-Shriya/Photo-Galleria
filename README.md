@@ -17,10 +17,15 @@ The user can upload their artworks and showcase them
 
 Install Node (any of the 16 series versions) from the official node website and Firebase as well
 
+Set up your firebase: 
+
+Storage ( do set up rules as "allow read, write;" for now ) and Firestore Database ( for image storage as collection )  
+and use those credentials for your project!
+
 Use the following commands:
 
 npm install (to get the dependencies)
-npm audit fix --force (to fix any broken builds)
+npm audit fix / npm audit fix --force (to fix any broken builds)
 npm start / npm run start (to run the app)
 
 If you have any queries or suggestions, feel free to reach out to me via mail
