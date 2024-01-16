@@ -1,17 +1,16 @@
-import * as firebase from 'firebase/app';
-import 'firebase/storage';
-import 'firebase/firestore';
+import firebase from 'firebase/compat/app';
+import "firebase/compat/storage";
+import "firebase/compat/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBmabrwVHziEl2zyQJ5uM7YrCEwQBEZSbI",
-  authDomain: "photo-galleria-8b8d2.firebaseapp.com",
-  projectId: "photo-galleria-8b8d2",
-  storageBucket: "photo-galleria-8b8d2.appspot.com",
-  messagingSenderId: "632206897880",
-  appId: "1:632206897880:web:fc25c9324c1a791d8e1dad"
+  apiKey: "AIzaSyDonHYF4ZQ8eVeB8b9XcmHv8tGt_OMLPHg",
+  authDomain: "firegram-galleria.firebaseapp.com",
+  projectId: "firegram-galleria",
+  storageBucket: "firegram-galleria.appspot.com",
+  messagingSenderId: "1025039459706",
+  appId: "1:1025039459706:web:0b8d5ce05bd52ff83a22c3"
 };
 
-// Initialize Firebase
 firebase.initializeApp(firebaseConfig);
 
 const projectStorage = firebase.storage();
