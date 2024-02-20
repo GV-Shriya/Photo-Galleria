@@ -3,12 +3,12 @@ import "firebase/compat/storage";
 import "firebase/compat/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDonHYF4ZQ8eVeB8b9XcmHv8tGt_OMLPHg",
-  authDomain: "firegram-galleria.firebaseapp.com",
-  projectId: "firegram-galleria",
-  storageBucket: "firegram-galleria.appspot.com",
-  messagingSenderId: "1025039459706",
-  appId: "1:1025039459706:web:0b8d5ce05bd52ff83a22c3"
+  apiKey: "AIzaSyCWYt_2Hq3vDgO-nGfm6UAb1M8cH6wyLeo",
+  authDomain: "firegram-galleria-b487b.firebaseapp.com",
+  projectId: "firegram-galleria-b487b",
+  storageBucket: "firegram-galleria-b487b.appspot.com",
+  messagingSenderId: "1037720405104",
+  appId: "1:1037720405104:web:a817408d13daed1b5920b5"
 };
 
 firebase.initializeApp(firebaseConfig);
